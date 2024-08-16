@@ -27,7 +27,7 @@ This project demonstrates various CSS Grid layout techniques through a responsiv
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/Anshuman-02/css-grid-layout-demo.git`
+1. Clone the repository: `git clone https://github.com/Anshuman-02/css-grid-layout.git`
 2. Open the `index.html` file in your browser to view the demo.
 3. Explore each linked page to see the different CSS Grid techniques in action.
 4. Use the `test.html` page to practice your own CSS Grid code.
